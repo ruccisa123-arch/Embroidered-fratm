@@ -1,3 +1,4 @@
+import streamlit as st
 # Configuration & iPad-friendly Page Setup
 st.set_page_config(
     page_title="Grandma's Embroidered Cookbook",
